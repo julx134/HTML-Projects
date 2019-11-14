@@ -1,0 +1,505 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Own Webpage!</title>
+        <style>
+        
+        body {
+    background-image: url("https://www.kasandbox.org/programming-images/landscapes/clouds-from-plane.png");background-repeat: no-repeat;background-size:cover;
+            }
+        
+        
+            
+            #Fig1 {position:relative;bottom:40px;}
+            
+        </style>
+    </head>
+    <body>
+    <h1 align="center"><u><font color= "rgb (97, 0, 97)">
+    My Personal Webpage</font></u></h1>
+    
+    <figure><div align="center">
+    <img id="Me" src="https://www.kasandbox.org/programming-images/avatars/piceratops-seed.png" width="250">
+        <figcaption id="Fig1"><i>Fig1. - My Self Portrait.</i></figcaption>
+    </div></figure>
+    
+    <p>Hi! Above there is my picture. Yeah, that's me. Welcome to my own webpage where I will be sharing some boring and exciting stuff with you guys! (it's mostly boring)
+    <br>
+    <br>
+    My full name is <b> Jules P. Gammad </b> and I'm a Grade 9 student currently studying in Forest Hill Collegiate Institute. F.H.C.I is a <em>really</em> great school. We have constant events and fundraisers around the school and even though its my first year studying here, I feel that, whoever you are and where ever you come from, everyone is accepted and treated fairly in Forest Hill. The teachers are <em>awesome</em> in F.H.C.I and there's also plenty of courses to choose from. I'm still at my first year so most of my classes are compulsory but feel free to take a look at my timetable below.
+    <br>
+    <h3 align="center"><u>This Is My Semester 1 Classes!</u></h3>
+    
+    <table border="1" align="center">
+        <th>Period</th><th>Day 1</th><th>Day 2</th><th></th><th></th><th></th><th></th><th>Period</th><th> Day 1</th><th>Day 2</th>
+        <tr bgcolor="grey">
+            <td>
+            Period 1
+            <br>
+            Term 1
+            <br>
+            <font size="-1">09:05-10:26</font>
+            <br>
+            </td>
+            <td>
+            SNC1D1-08
+            <br>
+            Monaghan, E.
+            <br>
+            RM #221
+            </td>
+            <td>
+            SNC1D1-08
+            <br>
+            Monaghan, E.
+            <br>
+            RM #221
+            </td><td></td><td></td><td></td><td></td>
+            <td>
+            Period 1
+            <br>
+            Term 2
+            <br>
+            <font size="-1">09:05-10:26</font>
+            </td>
+            <td>
+            SNC1D1-08
+            <br>
+            Monaghan, E.
+            <br>
+            RM #221
+            </td>
+            <td>
+            SNC1D1-08
+            <br>
+            Monaghan, E.
+            <br>
+            RM #221
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Period 2
+                <br>
+                Term 1
+                <br>
+                <font size="-1">10:30-11:45</font>
+            </td>
+            <td>
+            FSF1P1-03
+            <br>
+            Laki, A.
+            <br>
+            RM #236
+            </td>
+            <td>
+            FSF1P1-03
+            <br>
+            Laki, A.
+            <br>
+            RM #236
+            </td><td></td><td></td><td></td><td></td>
+            <td>
+             Period 2
+                <br>
+                Term 2
+                <br>
+                <font size="-1">10:30-11:45</font>
+            </td>
+            <td>
+            FSF1P1-03
+            <br>
+            Laki, A
+            <br>
+            RM #236
+            </td>
+            <td>
+            FSF1P1-03
+            <br>
+            Laki, A
+            <br>
+            RM #236
+            </td>
+            </tr>
+            <tr bgcolor="grey">
+            <td>
+            Lunch
+            <br>
+            Term 1
+            <br>
+            <font size="-1">11:45-12:45</font>
+            </td>
+            <td>
+            </td>
+            <td></td>
+            <td></td><td></td><td></td><td></td> <td>
+            Lunch
+            <br>
+            Term 2
+            <br>
+            <font size="-1">11:45-12:45</font>
+            </td>
+            <td></td><td></td>
+            </tr>
+            <tr>
+                <td>Period 3
+                    <br>
+                    Term 1
+                    <br>
+                    <font size="-1">12:45-14:00</font>
+                </td>
+                <td>
+                    CGC1D1-06
+                    <br>
+                    Ketchum, E.
+                    <br>
+                    RM. #230
+                </td>
+                <td>
+                    ENG1D1-03
+                    <br>
+                    Warford, B.
+                    <br>
+                    RM. #141
+                </td><td></td><td></td><td></td><td></td>
+                <td>
+                    Period 3
+                    <br>
+                    Term 2
+                    <br>
+                    <font size="-1">12:45-14:00</font>
+                </td>
+                 <td>
+                    CGC1D1-06
+                    <br>
+                    Ketchum, E.
+                    <br>
+                    RM. #230
+                </td>
+                <td>
+                    ENG1D1-03
+                    <br>
+                    Warford, B.
+                    <br>
+                    RM #119
+                </td>
+            </tr>
+            <tr bgcolor="grey">
+            <td>
+                    Period 4
+                    <br>
+                    Term 1
+                    <br>
+                    <font size="-1">14:05-15:20</font>
+                    </td>
+                    <td>
+                    ENG1D1-03
+                    <br>
+                    Warford, B.
+                    <br>
+                    RM #141
+                </td>
+                <td>
+                   CGC1D1-06
+                    <br>
+                    Ketchum, E.
+                    <br>
+                    RM. #230
+                </td><td></td><td></td><td></td><td></td>
+                <td>
+                    Period 4
+                    <br>
+                    Term 2
+                    <br>
+                    <font size="-1">14:05-15:20</font>
+                 </td>
+                 <td>
+                    ENG1D1-03
+                    <br>
+                    Warford, B.
+                    <br>
+                    RM #141
+                </td>
+                <td>
+                    CGC1D1-06
+                    <br>
+                    Ketchum, E.
+                    <br>
+                    RM. #230
+                </td>
+            </tr>
+    </table>
+    <h3 align="center"><u>This Is My Semester 2 Classes!</u></h3>
+    <table border="1" align="center">
+        <th>Period</th><th>Day 1</th><th>Day 2</th><th></th><th></th><th></th><th></th><th>Period</th><th> Day 1</th><th>Day 2</th>
+        <tr bgcolor="grey">
+            <td>
+            Period 1
+            <br>
+            Term 1
+            <br>
+            <font size="-1">09:05-10:26</font>
+            <br>
+            </td>
+            <td>
+            BTT101-02
+            <br>
+            Costin, A.
+            <br>
+            RM #111
+            </td>
+            <td>
+            BTT101-02
+            <br>
+            Costin, A.
+            <br>
+            RM #111
+            </td><td></td><td></td><td></td><td></td>
+            <td>
+            Period 1
+            <br>
+            Term 2
+            <br>
+            <font size="-1">09:05-10:26</font>
+            </td>
+            <td>
+             BTT101-02
+            <br>
+            Costin, A.
+            <br>
+            RM #111
+            </td>
+            <td>
+             BTT101-02
+            <br>
+            Costin, A.
+            <br>
+            RM #111
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Period 2
+                <br>
+                Term 1
+                <br>
+                <font size="-1">10:30-11:45</font>
+            </td>
+            <td>
+            AMS102-01
+            <br>
+            Simas, L.
+            <br>
+            RM #287
+            </td>
+            <td>
+            AMS102-01
+            <br>
+            Simas, L.
+            <br>
+            RM #287
+            </td><td></td><td></td><td></td><td></td>
+            <td>
+             Period 2
+                <br>
+                Term 2
+                <br>
+                <font size="-1">10:30-11:45</font>
+            </td>
+            <td>
+            AMS102-01
+            <br>
+            Simas, L.
+            <br>
+            RM #287
+            </td>
+            <td>
+            AMS102-01
+            <br>
+            Simas, L.
+            <br>
+            RM #287
+            </td>
+            </tr>
+            <tr bgcolor="grey">
+            <td>
+            Lunch
+            <br>
+            Term 1
+            <br>
+            <font size="-1">11:45-12:45</font>
+            </td>
+            <td>
+            </td>
+            <td></td>
+            <td></td><td></td><td></td><td></td> <td>
+            Lunch
+            <br>
+            Term 2
+            <br>
+            <font size="-1">11:45-12:45</font>
+            </td>
+            <td></td><td></td>
+            </tr>
+            <tr>
+                <td>Period 3
+                    <br>
+                    Term 1
+                    <br>
+                    <font size="-1">12:45-14:00</font>
+                </td>
+                <td>
+                    PPL10M-02
+                    <br>
+                    Li,M.
+                    <br>
+                    GYM #2
+                </td>
+                <td>
+                    MPM1D1-04
+                    <br>
+                    Soneriu, E.
+                    <br>
+                    RM #119
+                </td><td></td><td></td><td></td><td></td>
+                <td>
+                    Period 3
+                    <br>
+                    Term 2
+                    <br>
+                    <font size="-1">12:45-14:00</font>
+                </td>
+                 <td>
+                    PPL10M-02
+                    <br>
+                    Li,M.
+                    <br>
+                    GYM #2
+                </td>
+                <td>
+                    MPM1D1-04
+                    <br>
+                    Soneriu, E.
+                    <br>
+                    RM #119
+                </td>
+            </tr>
+            <tr bgcolor="grey">
+            <td>
+                    Period 4
+                    <br>
+                    Term 1
+                    <br>
+                    <font size="-1">14:05-15:20</font>
+                    </td>
+                    <td>
+                    MPM1D1-04
+                    <br>
+                    Soneriu, E.
+                    <br>
+                    RM #119
+                </td>
+                <td>
+                    PPL10M-02
+                    <br>
+                    Li,M.
+                    <br>
+                    GYM #2
+                </td><td></td><td></td><td></td><td></td>
+                <td>
+                    Period 4
+                    <br>
+                    Term 2
+                    <br>
+                    <font size="-1">14:05-15:20</font>
+                 </td>
+                 <td>
+                    MPM1D1-04
+                    <br>
+                    Soneriu, E.
+                    <br>
+                    RM #119
+                </td>
+                <td>
+                    PPL10M-02
+                    <br>
+                    Li,M.
+                    <br>
+                    GYM #2
+                </td>
+            </tr>
+    </table>
+    <br>
+    *For those of you who doesn't know what the course code for my courses are here is a simplified version but the rest should be self-explanatory.*
+    
+    <table align="center" border="1" width="400">
+    <tr>
+    <th>Semester 1</th><th>Semester 2</th>
+        
+    </tr>
+    <tr align="left">
+        <td>
+            <ul>
+            <li>Science</li>
+            <li>French</li>
+            <li>Geography</li>
+            <li>English</li>
+                
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Business and Technology</li>
+                <li>Strings Music</li>
+                <li>Physical Education</li>
+                <li>Math</li>
+            </ul>
+        </td>
+    </tr>
+        
+    </table>
+    <br>
+    Today is February 25, 2015. This month has been full of excitement but it also has its drawbacks. For example, we just finished the CPR unit in my Phys-Ed class and continuing to the volleyball unit next week. I also had tests and evaluations from all my classes, which is really stressful but I know that it is for the bettter good. Below is the list of important dates that will be upcoming this month.
+    <br>
+    <br>
+    Order if importance least to greatest:
+    <ol>
+        <li>Phys. Ed CPR Evaluation (02/25/2015)</li>
+        <li>Music Playing Test (02/26/2015)</li>
+        <li>Math Test/Unit Evaluation (02/26/2015)</li>
+        <li>BTT HTML Test (02/27/2015)
+         </ol>
+         <br>
+Other than test dates, my semester 2 classes are really fun and all of which is my favorite subjects. If I had to choose which subject is my most favorite, it would be BTT. Business and Technology is really cool because <u>it</u> <b>lets</b> <em>me</em> <font size="-2">do</font> <font size="5">this</font> <font size="4">or</font> <font color="blue">like</font> <font size="3" color="red">this.</font> BTT is what lets me create this webpage right now and the very device your reading at! It might be intidimating at first, but with time and hardwork you too can do this! Below is the list of my favorite subjects this school year.
+<br>
+<br>
+<ol>
+    <li>BTT</li>
+    <li>Math</li>
+    <li>Phys-Ed</li>
+    <li>Science</li>
+    <li>Music</li>
+    <li>Geography</li>
+    <li>French</li>
+    <li>English</li>
+</ol>
+The courses are great but so is the <em>cafeteria.</em> F.H.C.I's cafeteria is full of nutritious and satisfying foods for students. They also have a microwave for students to use which is really helpful during cold winters, when lunch needs to be heated up. The cafeteria in Forest Hill is like a big family potluck where every students eat up untill their hearts are satisfied.
+<figure><div align="center"><img id="hamburger" src="https://www.kasandbox.org/programming-images/food/hamburger.png" width="375" height="225"><figcaption><i>Fig.2-Burgers and Fries</i></figcaption></div></figure>
+<br>
+<br>
+Of course school isn't all food and social life. Sometimes there are certain lessons where a student might need help at. Here is the list and descriptions of online websites that I use for homeworks and projects.
+<br>
+<br>
+<ul>
+
+<li>I use <a href="http://www.thesaurus.com/">Thesaurus</a> to search up words that I don't understand. It is <em>especially</em> helpful for ESL students because a whole bunch of features is also found in the site like synonyms and acronyms.</li>
+<br>
+<li>For Math, I use <a href="https://homeworkhelp.ilc.org/">HomeWorkHelp</a> because it is a credible site plus it is certified teachers that help you with math homework. It is great for lessons but unfortunately it is only for students from grade 7-11.</li>
+<br>
+<li>Lastly, I use <a href="http://www.calvin.edu/library/knightcite/">knightcite</a> for citing projects because sometimes it is really hard to keep track and organize links when doing something like an essay or a project, but knightcite keeps things organized and orderly. The teachers recommend it too and its an automatic citation service! </li>
+</ul>
+</p>
+
+</body>
+</html>
