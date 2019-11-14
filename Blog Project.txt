@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            h1 {color:black;font-family:Monospace;font-size:3em;}
+            #falls {border: 3px ridge black; }
+            #rabbit {border: 3px ridge black;}  
+            p {font-family:Trebuchet MS;font-style:normal;font-size:17px; }
+            h6 {font-family:monospace;}
+            h2 {font-family:Times;border-bottom:1px solid grey;}
+           body {background-color: rgb(246, 252, 197);}
+        </style>
+        
+    </head>
+    <body>
+        
+        <h1 align="center">Jules' Blog</h1>
+        
+
+        <h2>Contents</h2>
+        <ul>
+            <li><a href="#firstpost">The Great Falls!</a></li>
+            <li><a href="#secondpost">Fun-Day Wonderland!</a></li>
+        </ul>
+        
+        <h2 id="firstpost">Niagara Falls</h2>
+        <h6><font size="2em">Posted on 08/15/2014</font></h6>
+       
+    
+        
+        <p>We went to Niagara Falls! It was the first time I went to Niagara Falls on August 15, 2014! My first reaction was sort of like a child accidentally getting left behind a candy store. When me and my family got close, I thought it was raining! I got real sad, but then I was wondering why people have these yellow raincoats. It hit me; the falls was so strong that it created its own dense humid atmosphere. I guarantee that anyone close to falls <b>cannot</b> avoid being wet without raincoats. For people who have already seen Niagara Falls, you know what I mean, but for those who have not seen the falls, I can't tell you much but here is a picture of it.</p>
+        <center><img id="falls" width="450" height="250" src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png"></center>
+        <br>
+        <br>
+    <h2 id="secondpost">Canada's Wonderland</h2>
+    <h6><font size="2em">Posted on 08/30/2014</font></h6>
+    
+    
+    <p>Nearing the end of summer, my family and I decided to go to Canada's Wonderland! TV ads on CW (Canada's Wonderland) makes it seem small and look like your casual county fare.<b> Boy was I wrong!</b> CW is gigantic! About 70 American Footballl Fields can fit in it! In addition to size, Canada's Wonderland has endless, wave after wave of rides and fun things to do! A simple to-do list won't be enough to fully discover Canada's Wonderland. Like when we went to the waterslide and the scary <em>Leviathan</em> and some games <em>especially</em> Laser Tag. At the end of the day, me and my family ended up in a petting zoo where I got to see many cute and cuddly animals. Every animal was great, but I have to give it to the rabbit. I wish I could've taken her home, but I wasn't allowed too. Here is the picture of the cute little bunny.
+    
+        <center><img id="rabbit" width="450" height="250" src="https://www.kasandbox.org/programming-images/animals/rabbit.png"></center>
+    </p>
+       
+        
+        
+    </body>
+</html>
